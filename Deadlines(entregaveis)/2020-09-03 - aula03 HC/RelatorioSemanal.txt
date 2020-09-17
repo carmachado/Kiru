@@ -1,0 +1,6 @@
+﻿Relatório semanal
+
+
+
+Gabriel: Realizado o plano da história do jogo, personagens e elementos do gameplay;
+Carlos: Preenchimento do documento e definição de demais fatores, como plataformas, engine, publico alvo...

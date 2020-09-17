@@ -1,0 +1,4 @@
+﻿Relatório semanal
+
+Gabriel: Realizado o desenho da interface principal, plano de fundo e gameplay;
+Carlos: Iniciado a concept art das personagens principais.
