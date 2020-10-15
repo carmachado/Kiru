@@ -2,5 +2,8 @@
 
 
 
-Gabriel: Desenvolvimento da história, GT
-Carlos: Slides e fluxograma
+Gabriel: Sistema de colisão, animações, fase 1
+Carlos: Score, sprites
+
+Adicionar uma interação com o mapa
+Adicionar um mecanismo de defesa ao destruir todos os inimigos
