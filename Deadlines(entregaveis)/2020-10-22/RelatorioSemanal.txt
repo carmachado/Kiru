@@ -1,0 +1,9 @@
+﻿Relatório semanal
+
+
+
+Gabriel: Iniciado processo de geração de falas dentro do texto
+Carlos: Novo inimigo com escudo
+
+Adicionar uma interação com o mapa
+Adicionar um mecanismo de defesa ao destruir todos os inimigos
