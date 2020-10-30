@@ -1,0 +1,8 @@
+﻿Relatório semanal
+
+
+
+Gabriel: Adicionada movimentação de inimigos na horizontal, adicionados novos padrões de ataque
+Carlos: Adicionado inimigo novo, corrigida colisão de personagem controlavel com as bordas e adicionado escudo.
+
+Adicionar  movimentação de inimigos na diagonal.
