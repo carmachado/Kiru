@@ -1,0 +1,8 @@
+Sons ao acertar inimigos;
+Habilidade especial;
+Sprite para a protagonista;
+Inimigo novo;
+2 fases novas;
+Ranking usando firebase;
+Menu inicial;
+Seletor de fases e dificuldades;
