@@ -1,0 +1,6 @@
+﻿Relatório semanal
+
+
+
+Gabriel: Shift para andar devagar e movimentação lateral de inimigos.
+Carlos: Alterado UI do HP para corações, adicionado UI para exibição dos escudos e adicionada imunidade de alguns segundos para o escudo.
