@@ -1,0 +1,6 @@
+﻿Relatório semanal
+
+
+
+Gabriel: Botão de pause e adição de inimigos.
+Carlos: Adicionado sons de jogo.
