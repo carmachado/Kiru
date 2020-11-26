@@ -1,8 +1,9 @@
+Barra de HP para chefes;
+Menu principal;
+2 fases novas;
+Seletor de fases e dificuldades;
+Ranking usando firebase;
 Sons ao acertar inimigos;
-Habilidade especial;
+Habilidade especial, tipo pressionar X para tirar os projéteis da tela, uma vez por fase;
 Sprite para a protagonista;
 Inimigo novo;
-2 fases novas;
-Ranking usando firebase;
-Menu inicial;
-Seletor de fases e dificuldades;
