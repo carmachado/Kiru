@@ -1,4 +1,1 @@
-Sprite para a protagonista;
-Inimigo novo;
 Memórias de alice;
-Novas waves;
