@@ -1,0 +1,4 @@
+﻿Relatório semanal
+
+Gabriel: Pequenas mudanças na UI. Roteiro de falas.
+Carlos: Sistema de diálogo, novo sprite de boss, sprite de Alice.
