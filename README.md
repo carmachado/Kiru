@@ -5,5 +5,5 @@ Alice wakes up on top of a tower, with no memories, looking out the window she i
 She encounters a mysterious girl who tries to kill her for no apparent reason, but during the fight Alice manages to successfully deliver a blow and regains part of her memories in the process. Alice then decides to go on a journey to understand more about the world she is in and her memories.
 
 # Download
-[Windows](https://github.com/carmachado/Kiru/blob/master/Deadlines(entregaveis)/2020-12-02/Build/Kiru_Windows.zip)
-[Linux](https://github.com/carmachado/Kiru/raw/master/Deadlines%28entregaveis%29/2020-12-02/Build/Kiru_Linux.zip)
+- [Windows](https://github.com/carmachado/Kiru/blob/master/Deadlines(entregaveis)/2020-12-02/Build/Kiru_Windows.zip)
+- [Linux](https://github.com/carmachado/Kiru/raw/master/Deadlines%28entregaveis%29/2020-12-02/Build/Kiru_Linux.zip)
